@@ -30,7 +30,7 @@
 
 **9. [📓 API Router](https://spotted-operation-dcc.notion.site/9-API-Router-f9490f1bccb54eb0a452ceabbff1b2ff)**
 
-**10. [📓 Next.js Components & Funions](https://spotted-operation-dcc.notion.site/10-NextJs-Components-Functions-3d72c5b27ed04763be5a6499941b4a1b)**
+**10. [📓 Next.js Components & Functions](https://spotted-operation-dcc.notion.site/10-NextJs-Components-Functions-3d72c5b27ed04763be5a6499941b4a1b)**
 
 ---
 
@@ -44,4 +44,5 @@
 
 **[📓 Socket.io](https://spotted-operation-dcc.notion.site/Sokect-io-8d671bbcf1484d3eb78c781c30e3935f)**
 
+**[📓 Next.js Image](https://spotted-operation-dcc.notion.site/Next-js-Image-4ce238f206b845ae9315df5e87885db7?pvs=74)**
 
